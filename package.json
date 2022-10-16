@@ -1,0 +1,23 @@
+{
+  "name": "dinosaursproject",
+  "version": "1.0.0",
+  "description": "Udacity's first Javascript project",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Njoodd/DinosaurInfographic.git"
+  },
+  "author": "Najoud Alhajery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Njoodd/DinosaurInfographic/issues"
+  },
+  "homepage": "https://github.com/Njoodd/DinosaurInfographic#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
