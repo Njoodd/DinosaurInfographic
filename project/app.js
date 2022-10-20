@@ -140,7 +140,7 @@ function checkNullOrUndefined(text) {
   if (
     text === null ||
     text === "" ||
-    (typeof text === "number" && text.isNaN())
+    (typeof text === "number" && Number.isNaN(text))
   ) {
     return true;
   }
