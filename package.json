@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Njoodd/DinosaurInfographic#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
   }
 }
